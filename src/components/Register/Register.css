@@ -50,5 +50,9 @@
     background: rgba(226, 157, 8, 0.623);
 }
 .register-para{
-    margin-left: 64px;
+    margin-left: 0;
+}
+.text-error{
+    color: rgb(194, 10, 10);
+    margin-left: 0;
 }
